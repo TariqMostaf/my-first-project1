@@ -1,0 +1,1068 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
+    <link rel="stylesheet" href="proj1.css">
+    <title>Proj1</title>
+    <link rel="webdite icon" type="png" href="img/website-icon-11.png">
+</head>
+<body>
+    <section>
+    <div class="section">
+        <!-- محتوى القسم الأول -->
+    
+    <div class="navbar">
+
+        <div >
+            <a href="#" class="logo-img"><img   src="img/plan.png" alt="">GND Growth</a>
+            
+           
+        </div>
+
+        
+        <div class="menu">
+            <ul>
+                <li class="active">Home</li>
+                <li>How it Works</li>
+                <li>Services</li>
+                <li>Connect</li>
+            </ul>
+        </div>
+          
+        <div  class="btns"> 
+            <a href="#" class="SigUp-btn">Sign Up</a>   
+            <a href="#" class="login-btn">Log in</a> 
+            </div>
+           
+            
+             
+        
+    </div>
+
+
+
+
+
+    
+
+    <div class="bunner">
+
+        <div class="text">
+          
+            <h1>Consistent <br> Sustainable <br> Growth   </h1>
+               <h2>Eng:Tariq-Bn-Mostafa</h2>
+          
+
+             
+        </div>
+
+         <div  class="img-hand">
+            <img src="img/hand2.png" >
+                  </div>
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+    <div class="card">
+
+        <div  class="imgANfIcon" >
+            <div class="imgincard">
+            <img  class="card-img" src="img/person.png" >
+        </div>
+
+            <div class="icon">
+                <img  src="img/more.png" >
+            </div>
+
+        </div>
+
+
+       
+        <div class="name-card">
+        <h2> Delia Jimenez</h2>
+        <p>Bulgaria</p>
+  
+        </div>
+          
+           <div class="price">
+
+
+            <div class="follow">
+           <h2>100345</h2>
+           <p>Followers</p>
+             
+            </div>
+   
+              <div class="post">
+                <h2>1765</h2>
+                <p>Posts</p>
+              </div>
+
+
+           </div>
+
+
+
+           <div class="btn-and-icons">
+            <div class="add-to-cart">
+                <button>Add to Cart</button>
+            </div>
+            <div class="icons">
+                <img src="img/messenger 1.png" alt="Messenger">
+                <img src="img/heart 1.png" alt="Heart">
+                <img src="img/ring 1.png" alt="Ring">
+            </div>
+        </div>
+       
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+    <div class="card-tow">
+        <div class="product-name"> <h3>New Leads</h3>
+            <br>
+        <p>This Week</p>
+     </div>
+
+        <div class="show-more-icon"><img src="img/more.png" alt=""></div>
+        <h1 style="  font-family: Arial, Helvetica, sans-serif;
+          font-size: 40px;  color: #263143;">1,134</h1> 
+    </div>
+
+
+
+
+
+    
+    <div class="card-tow"
+     style=" top: 19%; 
+    left: 45%;   padding-bottom: 0px;  ">
+    
+       
+  
+        
+        <div > <h1 style="  font-family: Arial, Helvetica, sans-serif;
+            " class="card-text-tree" >Watch <br> Our <br> Video</h1> 
+        <img   class="shape" src="img/Intersect.png" alt=""></div>
+        <div class="circel">
+            <img  class="imgcard-tree"
+             src="img/Vector 93.png" alt="">
+          </div>
+      
+    </div>
+                                   </div>
+   
+
+          <br><br>   <br><br>   <br><br>   
+        </section>
+                                   
+                                    <!-- محتوى القسم الثاني -->
+                   
+         <div class="bage2">
+            <br><br>   
+        <h1>Questions explained agreeable preferred <br> strangers too him her son</h1>
+          
+        
+        
+
+
+         
+        <div class="all">
+
+            <div class="all1">
+         <h1> 100+  </h1>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Minima ullam tempore fugit obcaecati. voluptates</p>
+            </div>
+
+
+
+           <div class="all2">
+            <h1>43,000+</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Minima ullam tempore fugit obcaecati. voluptates</p>
+                    </div>
+
+
+
+
+            <div class="all3">
+           <h1>130+</h1>
+           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Minima ullam tempore fugit obcaecati. voluptates</p>
+            </div>
+
+
+
+
+        </div>     
+
+                  
+
+<br>
+            
+            <br><br><br>
+            <div class="div-img">
+                <h1>From Our Blogs</h1> 
+                <br><br>
+<div class="big-card">
+    
+
+    <div class="small-card">
+        <img src="img/1.png" alt="y1">
+        <p class="description">No comfort</p>
+        <h4> No comfort do written conduct at prevent manners on. </h4>
+        <p>Read Blog <img src="img/Vector.png" ></p>
+    </div>
+
+
+    <div class="small-card">
+        <img src="img/2.png" alt="y2">
+        <p class="description">Celebrated</p>
+        <h4> Celebrated contrasted discretion him sympathize. </h4>
+        <p>Read Blog <img src="img/Vector.png" ></p>
+    </div>
+
+
+    <div class="small-card">
+        <img src="img/3.png" alt="y3">
+        <p class="description">Merits</p>
+        <h4> Though wished merits or be use these smart rooms ham </h4>
+        <p>Read Blog <img src="img/Vector.png" ></p>
+    </div>
+
+    <div class="small-card">
+        <img src="img/4.png" alt="y4">
+        <p class="description">Interface</p>
+        <h4> Make a better  solution . </h4>
+        <p>Read Blog </p>
+    </div>
+   
+   
+
+
+
+</div>
+<br><br>
+<img src="img/Group 673.png"  class="groub">
+   <br><br><br>
+
+
+
+
+   <section class="section2">
+    <div class="big-div">
+        <div class="sub-div">
+            <div class="img-text">
+              
+                <p> ACHIEVE MORE </p>
+            </div>
+            <h1 style="font-size: 28px;" > Whole every miles <br> as tiled at seven  <br>best CRMS</h1>
+        </div>
+        <div class="sub-div">
+            <div class="img-text">
+                <img src="img/Icon (1).png" alt="Icon 2">
+                <h3>Sufficient Impact </h3>
+            </div>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore omnis quis facilis similique saepe corrupti, enim ad quae. </p>
+        </div>
+        <div class="sub-div">
+            <div class="img-text">
+                <img src="img/Icon (2).png" alt="Icon 3">
+                <h3>Synced with CRM</h3>
+            </div>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore omnis quis facilis similique saepe corrupti, enim ad quae. </p>
+        </div>
+    </div>
+</section>
+
+<br><br><br>
+
+</div>
+</div>
+
+
+
+
+<div class="container">
+    <div class="left-div">
+        <h1>Moving waters <br> green form  </h1>
+        <p>  Seasons earth day night, likeness waters,<br>
+             fill fruitful us firmament good the fourth. </p>
+             <div class="img-text">
+                <img   class="img-true" src="img/true.png" >
+                <p>Image bearing he dominion</p>
+
+            </div>
+
+
+            <div class="img-text">
+                
+                <img class="img-true" src="img/true.png" >
+                <p>Whose sea dominion had closed</p>
+
+            </div>
+
+           
+
+        
+      
+        <div style="border-radius: 50px; margin-top: 17px; " class="SigUp-btn">Get Started</div>
+    </div>
+
+
+
+    <div class="right-div">
+        <div class="cardd">
+            <div class="card-icon"><img src="img/Icon (8).png" ></div>
+            <div class="card-title"><h3>Web Design</h3></div>
+
+            <div class="card-description"> <p>It it saying you're created   <br> creepeth.</p>
+
+                <h4>LEARN MORE</h4>
+
+            </div>
+        </div>
+
+        <div class="cardd" style="margin-left: 20%;">
+            <div class="card-icon"><img src="img/Icon-light (6).png" ></div>
+            <div class="card-title"><h3>Ad-Creatives</h3></div>
+
+            <div class="card-description"> <p>likeness god him fly fourth green his their great.</p>
+
+                <h4>LEARN MORE</h4>
+
+            </div>
+        </div>
+
+
+        <div class="cardd" style="margin-top: 22%;">
+            <div class="card-icon"><img src="img/seeting(2).png" ></div>
+            <div class="card-title"><h3> Automation</h3></div>
+
+            <div class="card-description"> <p>Fruit let green heaven Day. Also they're third.</p>
+
+                <h4>LEARN MORE</h4>
+
+            </div>
+        </div>
+
+
+        <div class="cardd" style="margin-top: 22%; margin-left: 20%;">
+            <div class="card-icon"><img src="img/football(7).png" ></div>
+            <div class="card-title"><h3>Infographics </h3></div>
+
+            <div class="card-description"> <p>Hath creeping waters stars sixth divided seasons.</p>
+
+                <h4>LEARN MORE</h4>
+
+            </div>
+        </div>
+
+
+
+
+
+
+    </div>
+</div>
+
+
+<br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+*{
+    font-family: "Nunito" , sans-serif;
+   
+    
+}
+body{
+    
+   
+    position: relative;
+    
+    
+}
+section{
+    background-color: #7ACAE5;
+}
+
+   
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid #8bbdf1;
+    padding: 0 2rem;
+  
+}
+
+
+
+
+
+
+.logo-img{
+    width: 20%;
+    text-decoration: none;
+    color: #000a0e;
+    font-size: 18px;
+    width: 10%;
+}
+
+
+
+
+
+
+
+
+.menu ul li {
+    display: inline;
+    list-style-type: none;
+    width: 60%;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 0px 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;    
+    color: #215C70;
+      
+    
+}
+.menu ul li.active{
+    position: relative;
+}
+
+.menu ul  li.active::after{
+    content: " ";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    transition: 1.5s;
+    background: blue;
+    left: 0;
+    bottom:-17px;
+}
+
+.menu ul li:hover{
+   color: blue;
+   transition: 3s;
+  
+   
+}
+
+
+
+.login-btn {
+   text-decoration: none;
+   background-color:#7AC9E4;
+    border:1px  solid #3E8FAA ;
+   border-radius: 9px;
+   padding: 11px 20px;
+   cursor: pointer;
+   font-size: 20px;
+   font-weight: 700;
+   color: #215C70;
+   text-align: center;
+}
+
+.SigUp-btn{
+     display: flex;
+    text-decoration: none;
+    background-color: #161C28;
+    border-radius: 9px;
+    padding: 11px 18px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 700;
+    color: wheat;
+    text-align: center;
+
+    
+}
+
+.SigUp-btn:hover{
+    background-color: rgb(61, 23, 230);
+    transition: 2.5s;
+
+}
+
+
+
+.login-btn:hover{
+    background-color: rgb(61, 23, 230);
+    transition: 2.5s;
+
+}
+.login-btn, .SigUp-btn {
+    display: inline-block;
+    
+}
+.btns{
+    width: 20%;
+    display: flex;
+    justify-content: flex-end;
+    gap: 15px;
+}
+
+
+
+
+
+
+.bunner{
+    display: flex;
+
+    margin-top: 70px;
+    align-items: end;
+    left: 40px;
+    justify-content: space-between;
+    position: relative;
+    
+}
+
+.img-hand{
+    width: 40%;
+
+
+}
+
+
+.text{
+   width: 50%;
+   padding-right: 80px;
+}
+
+.text h1{
+font-size: 85px;
+font-weight: 200;
+line-height: 1;
+color: #2e3233;
+}
+.text h2{
+    color: #353236bb;
+    font-weight: bold;
+    letter-spacing: 5px;
+    position: absolute;
+    left: 10px;
+    bottom: 0px;
+
+}
+
+
+
+.img{
+    text-align: center;
+    width: 50%;
+
+}
+
+
+
+
+
+.card {
+    background-color: #ffffff; /* لون الكارت أبيض */
+    padding: 5px 13px;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* ظل الكارت */
+    position: absolute; /* لتحديد موقع الكارت بالنسبة للصفحة */
+    top: 10%; 
+    left: 60%; 
+    font-size: 15px;
+    transform: translate(-50%, -50%); /* يوسع الكارت ليكون في المنتصف */
+}
+
+
+
+
+
+
+.imgANfIcon{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    justify-content: space-between;
+    
+}
+
+.imgincard{
+    width: 60%;
+}
+
+.icon{
+    width: 40%;
+    position: fixed;
+    bottom:  85%;
+    left:  50%;
+    margin-left: 40px;
+}
+
+.card-img {
+    max-width: 70%;
+    height: 70px;
+    border-radius: 60px;
+    margin-bottom: 10px;
+    border: rgb(253, 252, 250) solid 4px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+
+
+.card h4{
+    line-height: 0;
+}
+
+
+.name-card{
+    line-height: 0.3;
+    color: #263143;
+
+}
+
+.price{
+     
+    display: flex;
+    width: 100%;
+    text-align: center;
+    justify-content: space-between;
+    line-height: 0.3;
+ 
+}
+
+.follow{
+width: 80%;
+margin-right: 60px;
+}   
+
+
+.follow h2{
+    color: #FF4838;
+}
+
+.post{
+    width: 30%;
+}
+
+.post h2{
+    color: #584FF3;
+}
+
+
+.card p {
+    color: #C3C5CA;
+    font-weight: 600;
+  
+}
+.add-to-cart button {
+    background-color: #FF766A;
+    color: #fff;
+    border: none;
+    padding: 6px 6px; /* زيادة الحشوة لتكون أكبر */
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 13px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 500;
+}
+
+.add-to-cart button:hover {
+    background-color: #3d17e6;
+    transition: background-color 1.5s;
+}
+
+.btn-and-icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icons img {
+    max-width: 30px; /* حجم الأيقونات */
+    margin: 0 1px; /* تباعد بين الأيقونات */
+}    
+
+
+  /*  Card2  */
+
+.card-tow{
+    background-color: #ffffff; /* لون الكارت أبيض */
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* ظل الكارت */
+    position: absolute; /* لتحديد موقع الكارت بالنسبة للصفحة */
+    top: 10%; 
+    left: 39%; 
+    border: 1px solid #ccc;
+    padding:  20px 100px;
+    padding-left: 13px;
+    /* width: 11.8rem; */
+    height: 12.5rem;
+    font-size: 15px;
+
+}
+
+
+.card-tow p {
+    color: #C3C5CA;
+    font-weight: 500;
+    font-size: 12px;
+}
+.card-tow h3 h1 {
+   font-weight: 700;
+   color: #263143;
+}
+
+
+.product-name{
+    line-height: 0.0;
+}
+
+
+
+
+.show-more-icon {
+    position: absolute;
+    top: 11%;
+    right: 11%;
+  cursor: pointer;
+  
+}
+
+
+/*   Card3 */ 
+
+.card-text-tree{
+    
+    text-align: center;
+    font-weight: bold;
+    transform: translate(30%, -1%);
+   
+}
+
+.shape{
+    display: flex;
+    transform: translate(40%, 65%);
+     
+}
+
+.circel{
+   
+        width: 50px;
+        height: 50px;
+        background-color: #ffffff;
+        border-radius: 50px;
+        text-align: center;
+        line-height: 50px;
+        transform: translate(-90%, -200%);
+      
+}
+.circel:hover{
+    background-color: yellow;
+    transition: 2.5s;
+
+}
+
+
+.imgcard-tree{
+    position: absolute;
+    top: 15px;
+    left: 20px;
+}
+
+
+
+
+
+.bage2{
+    background-color: #FFFFFF;
+    text-align: center;
+    width: 100%;
+    
+    
+
+}
+
+.bage2 h1 {
+  color: #133063;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+  
+
+.bage2 p{
+    color: #87878A;
+    font-size: 16px;
+    
+}
+
+.section {
+    padding: 20px; /* تضيف هامش داخلي للقسم */
+    margin-bottom: 20px; /* تضيف هامش خارجي للقسم */
+}
+
+
+.all{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 12rem;
+    background-color: #FFFFFF;
+
+}
+
+.all h1  {
+color: #133063;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+}
+
+.all p {
+    color: #87878A;
+    font-size: 16px;
+    }
+
+
+
+    .big-card {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 17rem;
+         border-radius: 70px;
+         font-weight: bold;
+         font-family: Arial, Helvetica, sans-serif;
+
+    }
+    
+    .small-card {
+        margin: 10px;
+        text-align: start;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* تعديل القيم حسب الحاجة */
+        border-radius: 20px;
+         padding-left: 20px;
+
+
+        
+    }
+
+
+    .small-card h4 {
+       color: #133063;
+        
+    }
+    .small-card p {
+        color: #87878A;
+        text-align: start;
+         
+     }
+
+    .description {
+        font-size: 14px;
+    }
+
+    .div-img{
+        background-color: #FAF9F9;
+    }
+    
+
+    .groub{
+        display: flex;
+        margin-left: 280px;
+    }
+
+
+
+
+
+    .section2 {
+        background-color: #eaecf3;
+    }
+    
+    .big-div {
+     
+        display: flex;
+        align-items: start;
+        justify-content: space-between;
+        padding: 0 17rem;
+        border-radius: 70px;
+        text-align: start;
+    }
+    
+    .sub-div {
+        width: 30%;
+        padding: 20px;
+        margin: 10px;
+    }
+    
+    .img-text {
+       
+        display: flex;
+        align-items: start;
+        margin-bottom: 10px;
+       text-align: start;
+    }
+    
+    img {
+        margin-right: 5px;
+     }
+    
+    h3 {
+        font-size: 1.5em;
+        color: #133063;
+        margin-bottom: 10px;
+    }
+    
+    p {
+        font-size: 1em;
+        color: #656562;
+        text-align: end;
+            
+    }
+
+
+
+
+
+
+
+
+
+    
+
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding:  80px 250px 0px 250px;
+
+    }
+    .left-div, .right-div {
+        flex: 1;
+        padding: 20px;
+      
+       
+       
+    }
+    .right-div{
+  padding-bottom: 26%;
+    }
+
+    
+   
+    .cardd{
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+        background-color: #ffffff; /* لون الكارت أبيض */
+        padding: 5px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* ظل الكارت */
+        position: absolute; /* لتحديد موقع الكارت بالنسبة للصفحة */
+        font-size: 15px;
+        transform: translate(-50%, -50%);   
+        width: 17%;
+        height: 10%;
+        border-radius: 10px;
+        padding-top: 25px;
+        padding-left: 25px;
+        
+    }
+
+
+    .container h1 {
+        color: #133063;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 45px;
+        margin-bottom: 10px;
+    }
+    .container p {
+       
+        font-size: 1em;
+        color: #87878A;
+        text-align: start;
+        
+    }
+
+    
+    
+    .button:hover {
+        background-color: #8B4513;
+        color: #FFF8DC;
+        transition: background-color 0.3s, color 0.3s;
+
+    }
+    .card-icon {
+        font-size: 36px;
+        margin-bottom: 10px;
+    }
+    .card-title {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .card-description {
+        font-size: 16px;}
+    
+
+   .cardd p {
+    font-size: 18px;
+    color: #87878A;
+    text-align: start;
+
+   } 
+
+  
+
+   .cardd h4{
+    color: #4141A5;
+    letter-spacing: 2px;
+
+   }
+        
+
+        .img-true{
+            width: 20px;
+            padding: 15px 5px 5px  2px;
+        }
+   
